@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: #b39ddb;
+    background-color: azure;
 }
 #clock-body {
     height: 40vw;
@@ -14,7 +14,7 @@ body {
     background: url("clock.png");
     background-repeat: no-repeat;
     background-size: 100%;
-    background-color: white;
+    background-color: skyblue;
     margin-top: 40px;
     position: relative;
     box-shadow: inset 10px 10px 15px rgba(0,0,0,0.2),
@@ -25,7 +25,7 @@ body {
 #clock-dial {
     height: 1.4vw;
     width: 1.4vw;
-    background-color: brown;
+    background-color: black;
     border-radius: 50%;
     position: absolute;
     top: 19.2vw;
@@ -36,7 +36,7 @@ body {
     height: 9vw;
     width: 0.6vw;
     border-radius: 50%;
-    background-color: black;
+    background-color: white;
     position: absolute;
     top: 11vw;
     left: 19.6vw;
@@ -48,7 +48,7 @@ body {
     height: 12vw;
     width: 0.3vw;
     border-radius: 50%;
-    background-color: grey;
+    background-color: white;
     position: absolute;
     top: 8vw;
     left: 19.8vw;
@@ -71,7 +71,7 @@ body {
 #credits {
     font-size: 3vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #263238;
+    color: black;
     text-align: center;
     width: 100%;
     margin-top: 40px;
